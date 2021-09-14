@@ -1,0 +1,2 @@
+# Pythonのインストール(Windows 10)
+
