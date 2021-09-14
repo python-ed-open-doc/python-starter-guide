@@ -11,6 +11,8 @@ Welcome to Pythonスターターガイド's documentation!
    :caption: Contents:
 
    about-python/index
+   python-setup/index
+   ide/index
 
 
 

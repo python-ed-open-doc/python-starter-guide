@@ -1,4 +1,4 @@
-Pythonとは
+IDE(エディタ)
 =================
 
 
@@ -6,4 +6,5 @@ Pythonとは
    :maxdepth: 2
    :caption: Contents:
 
-   what-python
+   vscode-setup
+   vscode-use
