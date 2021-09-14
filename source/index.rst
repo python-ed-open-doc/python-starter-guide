@@ -10,6 +10,8 @@ Welcome to Pythonスターターガイド's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   about-python/index
+
 
 
 Indices and tables
