@@ -8,5 +8,5 @@ Pythonセットアップと起動
 
    install-py39-win
    install-py39-mac
-   start-up
-   interpreter
+   install-py39-others
+   start-up-and-interpreter
