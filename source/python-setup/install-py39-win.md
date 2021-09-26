@@ -38,7 +38,7 @@ PowerShellでPythonを使いたい場合は「Add Python 3.9 to PATH」にチェ
 ![Pythonインストール中](./setup-python-for-win-3.png "Pythonインストール中")
 *Pythonインストール中*
 
-インストールが完了すると以下の画面が表示されます。「Close」をクリックしてインストーラを終了させてください。
+インストールが完了すると以下の画面が表示されます。「Close」をクリックしてインストーラを終了させてください。これでPythonのインストールは完了です。
 
 ![Pythonインストール完了](./setup-python-for-win-4.png "Pythonインストール完了")
 *Pythonインストール完了*
