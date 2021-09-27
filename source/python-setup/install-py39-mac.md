@@ -1,3 +1,5 @@
+(install-py39-mac)=
+
 # Pythonのインストール(macOS)
 ここでは、macOSでのPythonのインストール方法について解説します。
 

@@ -1,3 +1,5 @@
+(install-py39-win)=
+
 # Pythonのインストール(Windows 10)
 ここでは、Windows 10でのPythonのインストール方法について解説します。
 
