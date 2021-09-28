@@ -1,10 +1,12 @@
 (install-py39-others)=
 
 # Pythonのインストール(その他)
-ここでは、{ref}`install-py39-win`、{ref}`install-py39-mac`で解説した方法以外のインストール方法を紹介します。
+ここでは、{ref}`install-py39-win`、{ref}`install-py39-mac`の方法以外のインストール方法を紹介します。
+
+以下の方法を使ってPythonのインストールはできますが、特別な理由がない限り、{ref}`install-py39-win`または{ref}`install-py39-mac`に従って公式インストーラを使ったほうがトラブルが少ないためお勧めです。
 
 ## Homebrew(macOSのみ)
-Homebrewはコマンドラインで開発用の便利なツールやライブラリをインストールできるパッケージ管理ツールです。
+Homebrewはコマンドラインで開発用の便利なツールやアプリケーションをインストールできるmacOS用パッケージ管理ツールです。
 Homebrewのインストール方法は以下公式サイトを参照してください。
 
 [https://brew.sh/index_ja](https://brew.sh/index_ja)
@@ -12,5 +14,26 @@ Homebrewのインストール方法は以下公式サイトを参照してくだ
 Python 3.9をインストールする場合は`brew install python@3.9`を実行します。
 
 ## Anaconda
+Anacondaはデータサイエンティスト向けのツールキットです。Pythonの実行環境に加えて、機械学習やデータ解析を行う際に便利なライブラリが簡単に使えるような仕組みが提供されています。
+
+Pythonの初心者向けのツールではありません。初心者はまず{ref}`install-py39-win`または{ref}`install-py39-mac`の方法でインストールして、機械学習やデータ解析を中心にPythonを使いたくなった際に導入を検討してください。
+
+Anacondaをインストールするには、以下公式サイトからインストーラをダウンロードして実行します。
+
+[https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
+
 ## Microsoft Store(Windowsのみ)
+Microsoft StoreはWindows向けのアプリケーションを配布しているプラットフォームです。
+
+Python 3.9は以下URLからインストールできます。
+
+[https://www.microsoft.com/ja-jp/p/python-39/9p7qfqmjrfp7?activetab=pivot:overviewtab](https://www.microsoft.com/ja-jp/p/python-39/9p7qfqmjrfp7?activetab=pivot:overviewtab)
+
 ## Chocolatey(Windowsのみ)
+ChocolateyはWindows用のパッケージ管理ツールです。コマンドラインでツールやアプリケーションをインストールできます。
+
+Chocolateyのインストール方法は以下公式サイトを参照してください。
+
+[https://community.chocolatey.org/courses/installation/installing?method=installing-chocolatey](https://community.chocolatey.org/courses/installation/installing?method=installing-chocolatey)
+
+Python 3.9をインストールする場合は`choco install python`を実行します。
