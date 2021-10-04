@@ -4,6 +4,7 @@
 
 ここでは、Pythonをコマンドから起動する方法と、Pythonの対話モードの使い方について解説します。
 
+(run-python-for-mac)=
 ## Pythonをコマンドから起動
 
 ### macOS
@@ -29,6 +30,50 @@ macOSにはデフォルトでPython 2.7系がインストールされている�
 
 ## Pythonの対話モード
 
-### macOS
+{ref}`run-python-for-mac`と同様の方法でターミナルを起動し、以下のコマンドを入力します。
 
-### Windows
+```console
+$ python3.9
+```
+
+上記コマンドを実行するとPythonの対話モードが起動し、画面が以下の状態になります。
+
+```python
+Python 3.9.7 (default, Sep  3 2021, 12:36:14)
+[Clang 11.0.0 (clang-1100.0.33.17)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
+`>>>`より右にPythonのコードを入力することができます。
+
+```python
+>>> print("Hello World!")  # 「Hello World!」を出力
+Hello World!
+>>> a = 1 + 2 + 3  # 足し算の結果を変数に代入
+>>> print(a)  # 変数の内容を出力
+6
+```
+
+コードが複数行の場合は改行するたびに先頭に`...`が出力されます。
+`...`に何も入力しない状態で改行すると、それまでに入力したコードが実行されます。
+
+```python
+>>> for i in range(5):  # 0から4までを出力
+...     print(i)
+...
+0
+1
+2
+3
+4
+```
+
+最後に表示された結果は暗黙の変数`_`に代入されます。関数やメソッドの戻り値を変数に代入し忘れた際に便利です。
+
+```python
+>>> sum([1, 2, 3, 4, 5])  # 1 + 2 + 3 + 4 + 5を計算
+15
+>>> print(_ + 6)  # 変数 _ には15が代入されている
+21
+```
