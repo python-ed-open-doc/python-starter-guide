@@ -27,6 +27,22 @@ Python 3.9.7
 macOSにはデフォルトでPython 2.7系がインストールされているため、このコマンドではインストールしたものとは別のPythonが起動されてしまいます。
 
 ### Windows
+まず、Windows PowerShellを起動します。画面左下の検索ボックスを使うと素早く起動できます。
+
+![検索ボックスからWindows PowerShellを起動](./run-python-for-win-1.png)
+*検索ボックスからWindows PowerShellを起動*
+
+検索ボックスを使わない場合は画面左下のスタートボタンをクリックしてからWindows PowerShellのアイコンをクリックしてください。Windows PowerShellのアイコンは、名前が「W」で始まるアプリケーションのフォルダの中にあります。
+
+![スタートボタンからWindows PowerShellを起動](./run-python-for-win-2.png)
+*スタートボタンからWindows PowerShellを起動*
+
+ターミナル上で以下のコマンドを入力すると、インストールされたPythonのバージョンを確認できます。
+
+```console
+PS C:\Users\**** python -V
+Python 3.9.7
+```
 
 ## Pythonの対話モード
 
