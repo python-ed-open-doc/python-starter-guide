@@ -6,8 +6,6 @@
 Welcome to Pythonスターターガイド's documentation!
 ==================================================
 
-テスト
-
 
 .. toctree::
    :maxdepth: 2
