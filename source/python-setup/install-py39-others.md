@@ -34,6 +34,6 @@ ChocolateyはWindows用のパッケージ管理ツールです。コマンドラ
 
 Chocolateyのインストール方法は以下公式サイトを参照してください。
 
-[https://community.chocolatey.org/courses/installation/installing?method=installing-chocolatey](https://community.chocolatey.org/courses/installation/installing?method=installing-chocolatey)
+[https://chocolatey.org/install](https://chocolatey.org/install)
 
 Python 3.9をインストールする場合は`choco install python`を実行します。
