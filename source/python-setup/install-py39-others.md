@@ -1,6 +1,6 @@
 (install-py39-others)=
 
-# Pythonのインストール(その他)
+# Python3.9のインストール(その他)
 ここでは、{ref}`install-py39-win`、{ref}`install-py39-mac`の方法以外のインストール方法を紹介します。
 
 以下の方法を使ってPythonのインストールはできますが、特別な理由がない限り、{ref}`install-py39-win`または{ref}`install-py39-mac`に従って公式インストーラを使ったほうがトラブルが少ないためお勧めです。

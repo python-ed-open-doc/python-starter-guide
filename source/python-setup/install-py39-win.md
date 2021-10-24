@@ -1,10 +1,10 @@
 (install-py39-win)=
 
-# Pythonのインストール(Windows 10)
+# Python3.9のインストール(Windows 10)
 ここでは、Windows 10でのPythonのインストール方法について解説します。
 
-## Pythonのインストーラをダウンロードする
-まず最初にPythonのインストーラをダウンロードします。
+## Python3.9のインストーラをダウンロードする
+まず最初にPython3.9のインストーラをダウンロードします。
 
 以下公式サイトをブラウザで開いてください。
 
@@ -14,15 +14,15 @@
 
 [^1]: `x`には数字が入ります。その時点での最新のバージョン番号によって値は異なります
 
-![Pythonのインストーラのダウンロードページ](./images/python-installer-download-page-for-win.png "Pythonのインストーラのダウンロードページ")
-*Pythonのインストーラのダウンロードページ*
+![Python3.9のインストーラのダウンロードページ](./images/python-installer-download-page-for-win.png "Python3.9のインストーラのダウンロードページ")
+*Python3.9のインストーラのダウンロードページ*
 
 ダウンロードが完了したら、ダウンロード先のフォルダに拡張子exeのファイルが作成されています。
 
-![ダウンロードされたPythonのインストーラ](./images/downloaded-python-installer-for-win.png "ダウンロードされたPythonのインストーラ")
-*ダウンロードされたPythonのインストーラ*
+![ダウンロードされたPython3.9のインストーラ](./images/downloaded-python-installer-for-win.png "ダウンロードされたPython3.9のインストーラ")
+*ダウンロードされたPython3.9のインストーラ*
 
-## Pythonをインストールする
+## Python3.9をインストールする
 ダウンロードしたPythonインストーラをダブルクリックすると、以下の画面が表示されます。
 「Add Python 3.9 to PATH」にチェックを入れてから「Install Now」をクリックすると次の画面に進みます。
 

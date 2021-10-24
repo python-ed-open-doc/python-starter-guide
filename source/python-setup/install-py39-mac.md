@@ -1,10 +1,10 @@
 (install-py39-mac)=
 
-# Pythonのインストール(macOS)
+# Python3.9のインストール(macOS)
 ここでは、macOSでのPythonのインストール方法について解説します。
 
-## Pythonのインストーラをダウンロードする
-まず最初にPythonのインストーラをダウンロードします。
+## Python3.9のインストーラをダウンロードする
+まず最初にPython3.9のインストーラをダウンロードします。
 
 以下公式サイトをブラウザで開いてください。
 
@@ -14,15 +14,15 @@
 
 [^1]: `x`には数字が入ります。その時点での最新のバージョン番号によって値は異なります
 
-![Pythonのインストーラのダウンロードページ](./images/python-installer-download-page-for-mac.png "Pythonのインストーラのダウンロードページ")
-*Pythonのインストーラのダウンロードページ*
+![Python3.9のインストーラのダウンロードページ](./images/python-installer-download-page-for-mac.png "Python3.9のインストーラのダウンロードページ")
+*Python3.9のインストーラのダウンロードページ*
 
 ダウンロードが完了したら、ダウンロード先のフォルダに拡張子pkgのファイルが作成されています。
 
-![ダウンロードされたPythonのインストーラ](./images/downloaded-python-installer-for-mac.png "ダウンロードされたPythonのインストーラ")
-*ダウンロードされたPythonのインストーラ*
+![ダウンロードされたPython3.9のインストーラ](./images/downloaded-python-installer-for-mac.png "ダウンロードされたPython3.9のインストーラ")
+*ダウンロードされたPython3.9のインストーラ*
 
-## Pythonをインストールする
+## Python3.9をインストールする
 ダウンロードしたPythonインストーラをダブルクリックし、以下の画面が表示されたら「続ける」をクリックします。
 
 ![ようこそPythonインストーラへ](./images/setup-python-for-mac-1.png "ようこそPythonインストーラへ")
@@ -38,7 +38,7 @@
 ![使用許諾契約](./images/setup-python-for-mac-3.png "使用許諾契約")
 *使用許諾契約*
 
-使用許諾契約の条件に同意するダイアログが表示されます。同意しなければPythonをインストールすることはできません。「同意する」をクリックすると次の画面に進みます。
+使用許諾契約の条件に同意するダイアログが表示されます。同意しなければPython3.9をインストールすることはできません。「同意する」をクリックすると次の画面に進みます。
 
 ![使用許諾契約の条件に同意するダイアログ](./images/setup-python-for-mac-4.png "使用許諾契約の条件に同意するダイアログ")
 *使用許諾契約の条件に同意するダイアログ*
