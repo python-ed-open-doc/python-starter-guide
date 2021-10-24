@@ -36,4 +36,6 @@ Chocolateyのインストール方法は以下公式サイトを参照してく�
 
 [https://chocolatey.org/install](https://chocolatey.org/install)
 
-Python 3.9をインストールする場合は`choco install python`を実行します。
+Python 3.9をインストールする場合は`choco install python --version=3.9.x`[^1]を実行します。
+
+[^1]: `x`には数字が入ります。その時点での最新のバージョン番号によって値は異なります
