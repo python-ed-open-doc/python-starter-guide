@@ -24,8 +24,7 @@
 
 ## Pythonをインストールする
 ダウンロードしたPythonインストーラをダブルクリックすると、以下の画面が表示されます。
-PowerShellでPythonを使いたい場合は「Add Python 3.9 to PATH」にチェックを入れてください。
-「Install Now」をクリックすると次の画面に進みます。
+「Add Python 3.9 to PATH」にチェックを入れてから「Install Now」をクリックすると次の画面に進みます。
 
 ![Pythonインストーラの最初の画面](./images/setup-python-for-win-1.png "Pythonインストーラの最初の画面")
 *Pythonインストーラの最初の画面*
