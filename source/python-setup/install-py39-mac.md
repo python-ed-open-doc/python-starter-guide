@@ -58,17 +58,24 @@ Pythonのインストール中は以下の画面が表示されます。イン�
 ![Pythonインストール中](./images/setup-python-for-mac-7.png "Pythonインストール中")
 *Pythonインストール中*
 
-インストール中にFinderが起動し、インストールされたファイルの一覧を確認できるようになります。インストーラがFinderの後ろに隠れて見えなくなる場合は、Finderを閉じるかウィンドウを移動させてインストーラが見えるようにしてください。
+インストール中にFinderが起動し、インストールされたファイルの一覧を確認できるようになります。
+この中の「Install Certificates.comman」をダブルクリックします。
+この作業はPythonのコードからhttpsのサイトにアクセスする際に使う証明書をインストールするためのものです。
 
-![Pythonインストール中](./images/setup-python-for-mac-8.png "Pythonインストール中")
-*Pythonインストール中*
+![Install Certificates.commandを実行](./images/setup-python-for-mac-8.png "Install Certificates.commandを実行")
+*Install Certificates.commandを実行*
 
-インストールが完了すると、以下の画面が表示されます。「閉じる」をクリックしてインストーラを終了させます。
+証明書のインストールが完了すると、以下の画面が表示されます。左上の×ボタンをクリックしてウィンドウを閉じます。
 
-![Pythonインストール完了](./images/setup-python-for-mac-9.png "Pythonインストール完了")
+![証明書インストール完了](./images/setup-python-for-mac-9.png "Install Certificates.commandを実行")
+*証明書インストール完了*
+
+Finderの後ろに以下の画面が隠れています。「閉じる」をクリックしてインストーラを終了させます。
+
+![Pythonインストール完了](./images/setup-python-for-mac-10.png "Pythonインストール完了")
 *Pythonインストール完了*
 
 最後に、インストーラを残すか削除するかを選択します。どちらかを選択するとインストール作業はすべて完了です。
 
-![インストーラを残すか削除するか選択](./images/setup-python-for-mac-10.png "インストーラを残すか削除するか選択")
+![インストーラを残すか削除するか選択](./images/setup-python-for-mac-11.png "インストーラを残すか削除するか選択")
 *インストーラを残すか削除するか選択*
