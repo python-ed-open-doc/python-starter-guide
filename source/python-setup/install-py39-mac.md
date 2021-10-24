@@ -70,7 +70,7 @@ Pythonのインストール中は以下の画面が表示されます。イン�
 ![証明書インストール完了](./images/setup-python-for-mac-9.png "Install Certificates.commandを実行")
 *証明書インストール完了*
 
-Finderの後ろに以下の画面が隠れています。「閉じる」をクリックしてインストーラを終了させます。
+Finderの後ろに以下の画面が隠れています。「閉じる」をクリックしてインストーラを終了します。
 
 ![Pythonインストール完了](./images/setup-python-for-mac-10.png "Pythonインストール完了")
 *Pythonインストール完了*
