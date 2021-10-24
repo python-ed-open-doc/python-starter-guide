@@ -10,10 +10,10 @@
 ### macOS
 Finderを起動し、「アプリケーション」-「ユーティリティ」を開き、「ターミナル」をダブルクリックしてターミナルを起動します。
 
-![Finderで「アプリケーション」-「ユーティリティ」を開く](./run-python-for-mac-1.png)
+![Finderで「アプリケーション」-「ユーティリティ」を開く](./images/run-python-for-mac-1.png)
 *Finderで「アプリケーション」-「ユーティリティ」を開く*
 
-![ターミナルを起動](./run-python-for-mac-2.png)
+![ターミナルを起動](./images/run-python-for-mac-2.png)
 *ターミナルを起動*
 
 ターミナル上で以下のコマンドを入力すると、インストールされたPythonのバージョンを確認できます。
@@ -29,12 +29,12 @@ macOSにはデフォルトでPython 2.7系がインストールされている�
 ### Windows
 まず、Windows PowerShellを起動します。画面左下の検索ボックスを使うと素早く起動できます。
 
-![検索ボックスからWindows PowerShellを起動](./run-python-for-win-1.png)
+![検索ボックスからWindows PowerShellを起動](./images/run-python-for-win-1.png)
 *検索ボックスからWindows PowerShellを起動*
 
 検索ボックスを使わない場合は画面左下のスタートボタンをクリックしてからWindows PowerShellのアイコンをクリックしてください。Windows PowerShellのアイコンは、名前が「W」で始まるアプリケーションのフォルダの中にあります。
 
-![スタートボタンからWindows PowerShellを起動](./run-python-for-win-2.png)
+![スタートボタンからWindows PowerShellを起動](./images/run-python-for-win-2.png)
 *スタートボタンからWindows PowerShellを起動*
 
 ターミナル上で以下のコマンドを入力すると、インストールされたPythonのバージョンを確認できます。
