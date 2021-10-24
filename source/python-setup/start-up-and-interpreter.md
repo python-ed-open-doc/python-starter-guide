@@ -96,6 +96,6 @@ Hello World!
 
 対話モードは以下のいずれかの方法で終了させることができます。
 
-* `exit()`関数を実行
+* `quit()`関数を実行
 * `Ctrl + D`を入力（macOSのみ）
 * `Ctrl + Z`を入力してからEnterキーを入力（Windowsのみ）
