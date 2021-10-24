@@ -19,7 +19,7 @@
 
 ダウンロードが完了したら、ダウンロード先のフォルダに拡張子pkgのファイルが作成されています。
 
-![ダウンロードされたPythonのインストーラ](./images/images/downloaded-python-installer-for-mac.png "ダウンロードされたPythonのインストーラ")
+![ダウンロードされたPythonのインストーラ](./images/downloaded-python-installer-for-mac.png "ダウンロードされたPythonのインストーラ")
 *ダウンロードされたPythonのインストーラ*
 
 ## Pythonをインストールする
