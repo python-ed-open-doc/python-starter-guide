@@ -8,9 +8,9 @@
 
 以下公式サイトをブラウザで開いてください。
 
-[https://www.python.org/downloads/](https://www.python.org/downloads/)
+[https://www.python.org/downloads/macos/](https://www.python.org/downloads/macos/)
 
-「Download Python 3.9.x」 [^1] というボタンをクリックすると、Pythonインストーラのダウンロードが始まります。
+「Python 3.9.x」 [^1] という表示の下にある「macOS 64-bit Intel installer」をクリックすると、Pythonインストーラのダウンロードが始まります。
 
 [^1]: `x`には数字が入ります。その時点での最新のバージョン番号によって値は異なります
 
