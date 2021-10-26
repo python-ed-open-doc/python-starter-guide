@@ -16,12 +16,11 @@ Finderを起動し、「アプリケーション」-「ユーティリティ」�
 ![ターミナルを起動](./images/run-python-for-mac-2.png)
 *ターミナルを起動*
 
-ターミナル上で以下のコマンドを入力すると、インストールされたPythonのバージョンを確認できます。
+ターミナル上で`$`より右に`python{バージョン番号} -V`というコマンドを入力すると、インストールされたPythonのバージョンを確認できます。
+たとえば、Python 3.9がインストールされている場合は`python3.9 -V`と入力します。
 
-```console
-$ python3.9 -V
-Python 3.9.7
-```
+![インストールされたPythonのバージョンを確認](./images/show-python-version-for-mac.png)
+*インストールされたPythonのバージョンを確認*
 
 このとき、`python -V`のようにpythonコマンドの後ろの数字を省略しないでください。
 macOSにはデフォルトでPython 2.7系がインストールされているため、このコマンドではインストールしたものとは別のPythonが起動されてしまいます。
@@ -37,12 +36,10 @@ macOSにはデフォルトでPython 2.7系がインストールされている�
 ![スタートボタンからWindows PowerShellを起動](./images/run-python-for-win-2.png)
 *スタートボタンからWindows PowerShellを起動*
 
-ターミナル上で以下のコマンドを入力すると、インストールされたPythonのバージョンを確認できます。
+ターミナル上で`>`より右に`python -V`というコマンドを入力すると、インストールされたPythonのバージョンを確認できます。
 
-```console
-PS C:\Users\**** python -V
-Python 3.9.7
-```
+![インストールされたPythonのバージョンを確認](./images/show-python-version-for-win.png)
+*インストールされたPythonのバージョンを確認*
 
 ## Pythonの対話モード
 
