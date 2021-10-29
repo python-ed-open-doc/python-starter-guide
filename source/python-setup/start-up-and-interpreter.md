@@ -49,11 +49,21 @@ macOSにはデフォルトでPython 2.7系がインストールされている�
 $ python3.9
 ```
 
-上記コマンドを実行するとPythonの対話モードが起動し、画面が以下の状態になります。
+上記コマンドを実行するとPythonの対話モードが起動します。
+
+macOSの場合、画面が以下の状態になります。
 
 ```python
 Python 3.9.7 (default, Sep  3 2021, 12:36:14)
 [Clang 11.0.0 (clang-1100.0.33.17)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
+Windowsの場合、画面が以下の状態になります。
+
+```python
+Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
