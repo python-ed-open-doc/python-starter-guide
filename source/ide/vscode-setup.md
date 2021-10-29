@@ -84,7 +84,7 @@ macOS は公式サイトから zip ファイルを取得し、Application フォ
 
 「Download Mac Universal」というボタンをクリックするとzipファイルのダウンロードができます。
 
-![VS Code公式サイト（images/macOS でアクセス）](macos01.png)
+![VS Code公式サイト（macOS でアクセス）](images/macos01.png)
 _VS Code公式サイト（macOS でアクセス）_
 
 ダウンロードをする際に、次のようなメッセージが現れる場合があります。
