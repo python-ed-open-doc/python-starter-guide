@@ -15,7 +15,7 @@ Python 開発に便利な拡張機能は様々なものが存在しますが、�
 - 主要なフレームワーク向けのデバッグ設定の利用
 - コードチェックツールの実行
 - テストコード実行
-- デバッグや
+- デバッグ
 - VS Code 内での Jupyter Notebook の実行
 
 また、拡張機能「Python」を追加すると「[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)」「[Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)」という拡張機能も同時に追加されます。これらも「Python」同様に Python のコードを書く際に強力な支援が受けられるようになるものです。
@@ -39,7 +39,7 @@ _拡張機能「Python」をインストール_
 
 拡張機能「Python」と、それに関連する「Jupyter」「Pylance」等の拡張機能も同時に追加されます。
 
-![「Python」が追加出来た状態の拡張機能一覧](images/plugin06.png)
+![「Python」が追加出来た状態の拡張機能一覧](images/plugin04.png)
 _「Python」が追加出来た状態の拡張機能一覧_
 
 以上で拡張機能「Python」の追加は完了です。
